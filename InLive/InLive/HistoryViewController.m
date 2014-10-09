@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 InLive. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "HistoryViewController.h"
 
-@interface SecondViewController ()
+@interface HistoryViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation HistoryViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 InLive. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "BetsViewController.h"
 
-@interface FirstViewController ()
+@interface BetsViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation BetsViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
